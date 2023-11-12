@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Burak!](https://github.com/burakkutluk)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/burak-kutluk-3a1128199)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burak-kutluk-3a1128199/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=burakkutluk.burakkutluk&style=flat-square&color=0088cc)
 
