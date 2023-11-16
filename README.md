@@ -41,6 +41,5 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=burakkutluk&theme=buefy-dark)](https://git.io/streak-stats)
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
