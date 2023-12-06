@@ -12,7 +12,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🛠 &nbsp; I’m currently working with JS, TS, React, Node etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: burakkutlukk@gmail.com.
 
