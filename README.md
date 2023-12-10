@@ -35,7 +35,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 ### Projects and Dev Stuffs:
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=burakkutluk&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakkutluk&theme=tokyonight)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=burakkutluk&show_icons=true&theme=radical)               ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakkutluk&theme=tokyonight)
 
 
 </div>
