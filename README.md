@@ -10,17 +10,6 @@ I am knowledgeable in web technologies such as React, Nodejs, mongoDB, Nextjs, J
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with JS, TS, React, Node etc.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: burakkutlukk@gmail.com.
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
 
