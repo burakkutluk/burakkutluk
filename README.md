@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=burakkutluk.burakkutluk&style=flat-square&color=0088cc)
 
-I am a Full Stack Developer currently.
+I am a computer Engineer.
 
 I am knowledgeable in web technologies such as React, Nodejs, mongoDB, Nextjs, Javascript.
 
